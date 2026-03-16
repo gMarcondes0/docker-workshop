@@ -1,0 +1,2 @@
+Testando - 3
+com docker parado
